@@ -2,8 +2,9 @@
 ***Task2Merged***
 </br>
 </br>
-
 ![al1](https://user-images.githubusercontent.com/47654151/111641785-95017400-8825-11eb-8a22-776f95c52feb.gif)
+</br>
+</br>
 ***ShoppingList***
 </br>
 </br>
